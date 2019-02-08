@@ -1,7 +1,7 @@
 public class LinearSearch implements Practice03Search {
 
 	public String searchName() {
-		return "Linear search";
+		return "linear search";
 	}
 
 	public int search(int [] arr, int target) {
